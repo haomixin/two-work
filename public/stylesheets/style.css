@@ -1,0 +1,109 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+ul li{
+  list-style: none;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.hmx_large{
+  height: 663px;
+  position: relative;
+}
+.nav{
+  height: 34px;
+  border-bottom: 1px solid #eeeeee;
+}
+.hmx_ul{
+  float: right;
+  width: 564px;
+}
+.hmx_ul li a{
+  line-height: 34px;
+  float: left;
+  color: #333;
+  font-weight: bold;
+  margin-left: 18px;
+}
+#a{
+  color: #fff;
+  width: 86px;
+  height: 33px;
+  background: #398bfb;
+  text-decoration: none;
+  line-height: 33px;
+  text-align: center;
+}
+.hmx_aside{
+  width: 641px;
+  min-height: 293px;
+  display: block;
+  margin: 0 auto 0 auto;
+  text-align: left;
+}
+.img1{
+  width: 270px;
+  height: 129px;
+  margin-left:190px;
+  margin-top:76px;
+}
+.hmx_form{
+  width: 640px;
+  height: 40px;
+  border: 1px solid #c9c9c9;
+}
+.hin{
+  float: right;
+  width: 102px;
+  height: 40px;
+  line-height: 38px;
+  color: #fff;
+  border: 0;
+  background: #38f;
+  text-align: center;
+  font-size: 16px;
+}
+.img2{
+  width: 18px;
+  height: 16px;
+  margin-left: 506px;
+  margin-top: 11px;
+}
+.img3{
+  position: absolute;
+  width: 60px;
+  height: 80px;
+  top: 467px;
+  left: 653px;
+  bottom: 0;
+}
+.food{
+  height: 17px;
+  margin-top: 290px;
+}
+#a2{
+  color: #999999;
+  margin-left: 521px;
+}
+#a3{
+  color: #999999;
+  margin-left: 25px;
+}
+.food1{
+  height: 17px;
+}
+#a4{
+  color: #999999;
+  margin-left: 317px;
+}
+#a5{
+  color: #999999;
+  margin-left:25px;
+}
+.img4 {
+  width: 14px;
+  height: 16px;
+  margin-top: 3px;
+}
